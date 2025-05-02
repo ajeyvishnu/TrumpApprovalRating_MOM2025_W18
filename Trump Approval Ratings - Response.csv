@@ -1,0 +1,24 @@
+Demographic,Category,Very Strongly Disapprove,Not Strongly Disapprove,Net Disapprove,Not Strongly Approve,Very Strongly Approve,Net Approve
+Total,Total,48,11,59,9,31,40
+Men,Gender,45,10,55,10,34,44
+Women,Gender,51,11,62,9,28,37
+White,Race,43,8,51,10,39,49
+Black,Race,66,16,82,6,8,14
+Hispanic,Race,54,18,72,7,20,27
+Asian,Race,56,13,69,10,19,29
+Ages 18-29,Age,49,14,63,13,23,36
+Ages 30-49,Age,49,13,62,10,27,37
+Ages 50-64,Age,45,8,53,8,38,46
+Ages 65+,Age,49,7,56,6,36,42
+Postgrad,Education,62,9,71,7,20,27
+College Grad,Education,55,8,63,10,26,36
+Some College,Education,45,10,55,11,34,45
+HS or Less,Education,41,14,55,8,35,43
+Rep/Lean Rep,Political Affiliation,14,10,24,15,60,75
+Rep/Lean Dem,Political Affiliation,82,11,93,2,5,7
+Trump Voters,Support,5,6,11,15,73,88
+Trump Voters - Strongly,Support,3,1,4,7,89,96
+Trump Voters - Not Strongly,Support,10,14,24,29,46,75
+Harris Voters,Support,90,7,97,0,2,2
+Harris Voters - Strongly,Support,94,5,99,0,1,1
+Harris Voters - Not Strongly,Support,86,9,95,4,1,5
